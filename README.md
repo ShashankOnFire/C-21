@@ -1,2 +1,2 @@
-# C-21
-Creating a library and writing functions with arguments.
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
